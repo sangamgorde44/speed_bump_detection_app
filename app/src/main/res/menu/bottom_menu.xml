@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/type_1"
+        android:icon="@drawable/home_map_icon"
+        android:title="Home"
+      />
+
+    <item android:id="@+id/type_2"
+        android:icon="@drawable/add_location_icon"
+        android:title="Add"
+        />
+
+    <item android:id="@+id/type_3"
+        android:icon="@drawable/contribution_list_icon"
+        android:title="My list"/>
+
+</menu>
